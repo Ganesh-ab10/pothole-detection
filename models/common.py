@@ -11,6 +11,8 @@ import zipfile
 from collections import OrderedDict, namedtuple
 from copy import copy
 from pathlib import Path
+import pathlib
+pathlib.PosixPath = pathlib.WindowsPath
 from urllib.parse import urlparse
 
 import cv2
