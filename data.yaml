@@ -2,4 +2,4 @@ train: custom_dataset/images/train
 val: custom_dataset/images/val
 
 nc: 1
-names: ['pothole']
+names: ["pothole"]
