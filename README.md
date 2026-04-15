@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <p>
     <a href="https://platform.ultralytics.com/?utm_source=github&utm_medium=referral&utm_campaign=platform_launch&utm_content=banner&utm_term=ultralytics_github" target="_blank">
@@ -510,3 +511,7 @@ For bug reports and feature requests related to YOLOv5, please visit [GitHub Iss
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
   <a href="https://discord.com/invite/ultralytics"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-discord.png" width="3%" alt="Ultralytics Discord"></a>
 </div>
+=======
+# pothole-detection
+training model
+>>>>>>> 04d5854d209fe0818a60baa005a0ad5880a83261
