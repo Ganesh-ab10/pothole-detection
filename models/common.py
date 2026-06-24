@@ -5,13 +5,14 @@ import ast
 import contextlib
 import json
 import math
+import pathlib
 import platform
 import warnings
 import zipfile
 from collections import OrderedDict, namedtuple
 from copy import copy
 from pathlib import Path
-import pathlib
+
 pathlib.PosixPath = pathlib.WindowsPath
 from urllib.parse import urlparse
 
